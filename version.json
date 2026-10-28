@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.13",
-  "apkUrl": "https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.13/ayu-toolbox-0.13.apk",
-  "changelog": "1. 更新地址设置入口\n2. 未配置提示"
+  "versionCode": 18,
+  "versionName": "0.14",
+  "apkUrl": "https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.14/ayu-toolbox-0.14.apk",
+  "changelog": "1. 默认更新地址接入 GitHub\n2. 应用内检查更新可用"
 }
