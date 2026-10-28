@@ -1,6 +1,6 @@
 {
   "versionCode": 18,
   "versionName": "0.14",
-  "apkUrl": "https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.14/ayu-toolbox-0.14.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/a1106055792/ayu-toolbox-updates@main/ayu-toolbox-0.14.apk",
   "changelog": "1. 默认更新地址接入 GitHub\n2. 应用内检查更新可用"
 }
