@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.16",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/a1106055792/ayu-toolbox-updates@main/ayu-toolbox-0.16.apk",
-  "changelog": "1. 更新清单加时间戳\n2. 绕过 CDN 缓存，检查更新更及时"
+  "versionCode": 21,
+  "versionName": "0.17",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/a1106055792/ayu-toolbox-updates@main/ayu-toolbox-0.17.apk",
+  "changelog": "1. 更新清单三路兜底\n2. 绕过 CDN 缓存延迟"
 }
