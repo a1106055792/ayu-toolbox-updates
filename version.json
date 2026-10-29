@@ -1,6 +1,6 @@
 {
   "versionCode": 27,
   "versionName": "0.23",
-  "apkUrl": "https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.23/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/a1106055792/ayu-toolbox-updates/main/ayu-toolbox-0.23.apk",
   "changelog": "1. 视频压制双模式：硬件压制（快）/ x264 压制（CRF 默认 23，画质更准）\n2. 修复部分正常视频被误判“文件损坏”的问题\n3. 新增音频/图片格式互转、图片合成 PDF、PDF 转图片、PDF 无损合并/拆分\n4. 设备码支持一键复制\n5. 本版本包含 FFmpeg/libx264（GPLv3），按 GPLv3 分发"
 }
