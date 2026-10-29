@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.18",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/a1106055792/ayu-toolbox-updates@main/ayu-toolbox-0.18.apk",
-  "changelog": "1. 新增「无损压缩视频」：H.264/HEVC 视觉无损压缩，音频无损保留\n2. 转音频支持 MP3 / M4A(AAC) / FLAC\n3. 音频与压缩分别统计每日免费额度"
+  "versionCode": 23,
+  "versionName": "0.19",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/a1106055792/ayu-toolbox-updates@main/ayu-toolbox-0.19.apk",
+  "changelog": "1. 修复视频压缩卡住不动（编码器输出改为独立线程消费，避免 Surface 缓冲死锁）\n2. 增加编解码超时保护，异常时明确提示而不是一直卡住"
 }
