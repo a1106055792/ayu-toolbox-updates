@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.17",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/a1106055792/ayu-toolbox-updates@main/ayu-toolbox-0.17.apk",
-  "changelog": "1. 更新清单三路兜底\n2. 绕过 CDN 缓存延迟"
+  "versionCode": 22,
+  "versionName": "0.18",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/a1106055792/ayu-toolbox-updates@main/ayu-toolbox-0.18.apk",
+  "changelog": "1. 新增「无损压缩视频」：H.264/HEVC 视觉无损压缩，音频无损保留\n2. 转音频支持 MP3 / M4A(AAC) / FLAC\n3. 音频与压缩分别统计每日免费额度"
 }
