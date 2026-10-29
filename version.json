@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "0.19",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/a1106055792/ayu-toolbox-updates@main/ayu-toolbox-0.19.apk",
-  "changelog": "1. 修复视频压缩卡住不动（编码器输出改为独立线程消费，避免 Surface 缓冲死锁）\n2. 增加编解码超时保护，异常时明确提示而不是一直卡住"
+  "versionCode": 24,
+  "versionName": "0.20",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/a1106055792/ayu-toolbox-updates@main/ayu-toolbox-0.20.apk",
+  "changelog": "1. 损坏视频不再卡死：自动跳过坏样本、解码器自动重启；文件大面积为空时几秒内提示「视频文件损坏」，不再停在 4%\n2. 压缩失败时清理临时文件，不影响再次尝试"
 }
