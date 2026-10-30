@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "0.24",
-  "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/a1106055792/ayu-toolbox-updates/main/ayu-toolbox-0.24.apk",
-  "changelog": "1. 视频压制双模式：硬件压制（快）/ x264 压制（CRF 默认 23，画质更准）\n2. 修复部分正常视频被误判“文件损坏”的问题\n3. 新增音频/图片格式互转、图片合成 PDF、PDF 转图片、PDF 无损合并/拆分\n4. 设备码支持一键复制\n5. 更新检查同版本时优先采用 raw/API 清单，规避 CDN 缓存滞后"
+  "versionCode": 32,
+  "versionName": "0.28",
+  "apkUrl": "https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.28/ayu-toolbox-0.28.apk",
+  "changelog": "1. 新增电子书转换：电子书格式互转，支持常见电子书格式\n2. 新增学术论文 PDF 重排为电子书（双栏阅读顺序）\n3. 新增 CAJ/KDH/NH 转 PDF（含扫描版）\n4. 功能描述不再列举具体格式，执行过程全部显示进度条\n5. 视频压制两种模式的说明补齐速度/画质/体积/发热取舍\n6. 本版 APK 约 66MB，建议在 WiFi 下更新"
 }
