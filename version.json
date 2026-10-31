@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "0.34",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.34/ayu-toolbox-0.34.apk",
-  "apkSize": 71071927,
-  "sha256": "231ac379790557233597fb6a55927b1d26f4e476314c582538a764f9ddc0b4a7",
-  "changelog": "1. VIP 标识改到具体功能项上：音频格式转换 / 视频转音频的「FLAC 无损」后标 V\n2. 每个功能页直接写明 VIP 与免费的区别：\n   - 音频：FLAC 仅 VIP；MP3/OGG 免费 192kbps、VIP 320kbps；AAC 免费 128kbps、VIP 256kbps\n   - 视频压制：免费 ≤10 分钟、输出最长边 1280（720p）；VIP 不限时长、保留原分辨率（最高 3840）\n3. 首页去掉原先错误的整卡 V 徽标\n4. 「会员与激活」页保留完整对比表（7 项）\n5. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
+  "versionCode": 39,
+  "versionName": "0.35",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.35/ayu-toolbox-0.35.apk",
+  "apkSize": 71075495,
+  "sha256": "cebf51185fc5623bac2f9db0cb1bee0db335501e5fc4bc28f823c7c26f032868",
+  "changelog": "1. 新增「HIFI 音频」功能（首页第四行）\n2. HIFI 首个子功能：USB 独占播放\n   - 自动检测 USB 音频设备（UAC 声卡 / 小尾巴 / 解码耳放）与系统当前输出路由\n   - 一键申请独占通道（申请 USB 权限 → 打开设备 → 独占音频接口）\n   - 播放测试音（48kHz/16bit 立体声，优先从 USB 设备出声）\n3. 说明区标注 bit-perfect 的三个前提条件\n4. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
 }
