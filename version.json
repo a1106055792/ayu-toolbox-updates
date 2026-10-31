@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "0.32",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.32/ayu-toolbox-0.32.apk",
-  "apkSize": 71063211,
-  "sha256": "c2df7f4bdfca76b806aab5a1db05fac2bfef056f8ff48d9a736130535e4d4bb5",
-  "changelog": "1. 全新界面：状态栏与页面同色、卡片加圆角描边与阴影、图标更大、标题层级更清晰\n2. 新增深色模式：跟随系统设置自动切换\n3. 修复「打开文件所在位置」在部分机型（HyperOS 等）点了没反应的问题，新增应用内输出目录面板\n4. docx / docm 文件现在直接输出 PDF（与 xlsx / pptx 一致）\n5. 补齐 GPLv3 开源合规文件（LICENSE / NOTICE / 源码版权声明）\n6. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
+  "versionCode": 37,
+  "versionName": "0.33",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.33/ayu-toolbox-0.33.apk",
+  "apkSize": 71066879,
+  "sha256": "9c8a7b3f1c3ebcfada3c351efb52bd96944f92940e539708f68a5fde1d4723af",
+  "changelog": "1. 首页三张 VIP 功能卡新增 V 徽标，一眼看出哪些功能有会员增强\n2. 「会员与激活」改成独立页面：当前身份 + 免费/VIP 七项对比表 + 开通入口 + 激活码\n3. 对比表写清免费限制：视频 10 分钟 / 720p、标准音质、FLAC 不支持、同时转换 1 个\n4. VIP 权益：不限时长与原分辨率、MP3 320kbps / AAC 256kbps、FLAC 无损、同时转换 2 个\n5. UI 延续 0.32：卡片圆角描边、深色模式跟随系统\n6. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
 }
