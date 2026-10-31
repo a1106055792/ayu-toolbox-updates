@@ -1,7 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.30",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.30/ayu-toolbox-0.30.apk",
-  "apkSize": 68955979,
-  "changelog": "1. 文档格式转换页改版：选择文件后自动识别（CAJ/KDH 输出 PDF、学术 PDF 重排为 EPUB、其他电子书按所选格式）\n2. 去掉「转换方式」三选一，界面更直接\n3. 启动后静默检查更新，同一版本只提醒一次\n4. CAJ 扫描版 / 二次转换稳定性修复（0.29）\n5. 免费版不限次数，视频限 10 分钟与 720p；VIP 30 天 12 元 / 永久 99 元\n6. 本版 APK 约 66MB，建议在 WiFi 下更新"
+  "versionCode": 36,
+  "versionName": "0.32",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.32/ayu-toolbox-0.32.apk",
+  "apkSize": 71063211,
+  "sha256": "c2df7f4bdfca76b806aab5a1db05fac2bfef056f8ff48d9a736130535e4d4bb5",
+  "changelog": "1. 全新界面：状态栏与页面同色、卡片加圆角描边与阴影、图标更大、标题层级更清晰\n2. 新增深色模式：跟随系统设置自动切换\n3. 修复「打开文件所在位置」在部分机型（HyperOS 等）点了没反应的问题，新增应用内输出目录面板\n4. docx / docm 文件现在直接输出 PDF（与 xlsx / pptx 一致）\n5. 补齐 GPLv3 开源合规文件（LICENSE / NOTICE / 源码版权声明）\n6. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
 }
