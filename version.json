@@ -1,6 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.28",
-  "apkUrl": "https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.28/ayu-toolbox-0.28.apk",
-  "changelog": "1. 新增电子书转换：电子书格式互转，支持常见电子书格式\n2. 新增学术论文 PDF 重排为电子书（双栏阅读顺序）\n3. 新增 CAJ/KDH/NH 转 PDF（含扫描版）\n4. 功能描述不再列举具体格式，执行过程全部显示进度条\n5. 视频压制两种模式的说明补齐速度/画质/体积/发热取舍\n6. 本版 APK 约 66MB，建议在 WiFi 下更新"
+  "versionCode": 33,
+  "versionName": "0.29",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.29/ayu-toolbox-0.29.apk",
+  "apkSize": 68955679,
+  "changelog": "1. 知网 CAJ 转换全面修复：KDH 文本版 / PDF / 扫描版（JBIG2）实测通过\n2. 免费版改为不限次数；视频限 10 分钟与 720p 输出\n3. VIP：30 天卡 12 元，永久 99 元（限时创始价）\n4. 首次启动增加使用须知\n5. 修复二次转换失败、论文进度倒退、大图 PDF 内存问题\n6. 本版 APK 约 66MB，建议在 WiFi 下更新"
 }
