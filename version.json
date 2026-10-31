@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.29",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.29/ayu-toolbox-0.29.apk",
-  "apkSize": 68955679,
-  "changelog": "1. 知网 CAJ 转换全面修复：KDH 文本版 / PDF / 扫描版（JBIG2）实测通过\n2. 免费版改为不限次数；视频限 10 分钟与 720p 输出\n3. VIP：30 天卡 12 元，永久 99 元（限时创始价）\n4. 首次启动增加使用须知\n5. 修复二次转换失败、论文进度倒退、大图 PDF 内存问题\n6. 本版 APK 约 66MB，建议在 WiFi 下更新"
+  "versionCode": 34,
+  "versionName": "0.30",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.30/ayu-toolbox-0.30.apk",
+  "apkSize": 68955979,
+  "changelog": "1. 文档格式转换页改版：选择文件后自动识别（CAJ/KDH 输出 PDF、学术 PDF 重排为 EPUB、其他电子书按所选格式）\n2. 去掉「转换方式」三选一，界面更直接\n3. 启动后静默检查更新，同一版本只提醒一次\n4. CAJ 扫描版 / 二次转换稳定性修复（0.29）\n5. 免费版不限次数，视频限 10 分钟与 720p；VIP 30 天 12 元 / 永久 99 元\n6. 本版 APK 约 66MB，建议在 WiFi 下更新"
 }
