@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "0.35",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.35/ayu-toolbox-0.35.apk",
-  "apkSize": 71075495,
-  "sha256": "cebf51185fc5623bac2f9db0cb1bee0db335501e5fc4bc28f823c7c26f032868",
-  "changelog": "1. 新增「HIFI 音频」功能（首页第四行）\n2. HIFI 首个子功能：USB 独占播放\n   - 自动检测 USB 音频设备（UAC 声卡 / 小尾巴 / 解码耳放）与系统当前输出路由\n   - 一键申请独占通道（申请 USB 权限 → 打开设备 → 独占音频接口）\n   - 播放测试音（48kHz/16bit 立体声，优先从 USB 设备出声）\n3. 说明区标注 bit-perfect 的三个前提条件\n4. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
+  "versionCode": 41,
+  "versionName": "0.37",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.37/ayu-toolbox-0.37.apk",
+  "apkSize": 71077955,
+  "sha256": "7f147c3ccac514763d22cce36ec2fd0395be1d619c6a73cc5894b524cc6832f0",
+  "changelog": "﻿1. 播放器界面改为「典雅浅色」：米白纸感底、墨黑文字、香槟金点缀、衬线大标题、细分割线\n2. 正在播放卡：96dp 专辑封面（自动读取）、衬线曲名与艺术家、金色细进度条、时间\n3. 新增播放模式（顺序 / 单曲 / 随机）与排序（按标题 / 艺术家 / 时长）\n4. 音质行显示「格式 · 源采样率/位深 → 输出采样率」，可直接看出是否被重采样\n5. 曲库列表改为细分割线样式，去掉卡片\n6. 下一步：通知栏/后台播放、文件夹浏览、音效（EQ/低音）、歌词、bit-perfect 直出"
 }
