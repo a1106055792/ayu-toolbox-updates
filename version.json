@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "0.43",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.43/ayu-toolbox-0.43.apk",
-  "apkSize": 71102643,
-  "sha256": "e5b6d656746d64dd961d92491b8d51b51feb89fbf7f046729c06aeab5f5e2cdc",
-  "changelog": "1. 新增「USB 独占状态」页（播放设置 → USB 独占状态）\n2. 设备识别：名称、VID/PID、接口数、USB 权限状态\n3. UAC 描述符解析：支持 UAC 1.0 与 2.0，读出声道数、位深（16/24/32bit）\n4. 独占申请：逐个接管音频接口并逐条显示结果（实测 ddHiFi USB Audio 5/5 接口全部接管成功）\n5. 真机实测：ddHiFi USB Audio（VID 0E55 / PID 1110）识别为 UAC 2.0，2 声道，16/24/32bit 三种格式\n6. 采样率需运行时查询时钟源，留到 A1（UAC 用户态驱动）阶段\n7. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
+  "versionCode": 48,
+  "versionName": "0.44",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.44/ayu-toolbox-0.44.apk",
+  "apkSize": 71119027,
+  "sha256": "7c6c461565622fb9f2163f7b5d5f333b7c88b2a461a017950a6d39978bd7ab87",
+  "changelog": "1. 独占逻辑重做：逐格式探测（采样率 × 16/24/32bit），每次尝试结果都会记录并展示\n2. 插入 USB DAC 时主动弹窗询问「是否开启独占播放」，用户点「开启」才申请\n3. 独占对话框改为三项：开启（自动探测）/ 关闭 / 查看 USB 独占状态页\n4. 状态行显示真实结果（如「直出：44.1kHz/24bit 已启用」），失败如实给原因\n5. 真机结论：ddHiFi（UAC2 / 2 声道 / 16-24-32bit）在本平板逐格式全部被系统拒绝，\n   说明该 MIUI 平台未实现 bit-perfect 混音属性；真正独占需 A1（UAC 用户态驱动）\n6. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
 }
