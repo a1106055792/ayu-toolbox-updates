@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "0.37",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.37/ayu-toolbox-0.37.apk",
-  "apkSize": 71077955,
-  "sha256": "2b764fce6064077456d7e612fb5ab138c5fe20f6daf0a7e3034b5560b9b22ecb",
-  "changelog": "1. 播放器界面改为「典雅浅色」：米白纸感底、墨黑文字、香槟金点缀、衬线大标题、细分割线\n2. 正在播放卡：96dp 专辑封面（自动读取）、衬线曲名与艺术家、金色细进度条、时间\n3. 新增播放模式（顺序 / 单曲 / 随机）与排序（按标题 / 艺术家 / 时长）\n4. 音质行显示「格式 · 源采样率/位深 → 输出采样率」，可直接看出是否被重采样\n5. 曲库列表改为细分割线样式，去掉卡片\n6. 下一步：通知栏/后台播放、文件夹浏览、音效（EQ/低音）、歌词、bit-perfect 直出"
+  "versionCode": 42,
+  "versionName": "0.38",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.38/ayu-toolbox-0.38.apk",
+  "apkSize": 71095639,
+  "sha256": "2180c9e8bffec2d5141d27d97441c1a27f8c3a1b17494e37035b129bccb9a117",
+  "changelog": "1. 后台播放：新增播放前台服务，退出到桌面/锁屏后继续播放（实测后台仍在播）\n2. 通知栏控制：上一首 / 播放暂停 / 下一首 / 停止（需系统允许本应用通知）\n3. 曲库过滤：全部 / 收藏 / 最近 三个筛选，长按歌曲可加入或取消收藏\n4. 文件夹浏览：按目录分组选择，实测可列出 Music(437)、生命的力量(12) 等目录\n5. 播放状态移入播放引擎单例，界面与通知栏共享同一份状态\n6. 下一步：音效（EQ/低音/增益）、歌词、bit-perfect 按源采样率直出\n7. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
 }
