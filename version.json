@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "0.39",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.39/ayu-toolbox-0.39.apk",
-  "apkSize": 71097715,
-  "sha256": "552d413deef064ed056d236df6d09b32aeb6ed96e6eded39a37b42c337df1fe5",
-  "changelog": "1. 新增「音效」页（播放页控制行「音效」进入）\n2. 均衡器：10 个预设（关闭/原声/流行/摇滚/古典/爵士/舞曲/重金属/民谣/嘻哈）+ 5 段频段手动调节\n3. 低音增强、环绕声、增益（限幅保护）三个强度滑块\n4. 音效绑定当前播放会话，实时生效；设置持久保存\n5. 独占（bit-perfect）与音效互斥：独占时音效自动关闭并提示\n6. 下一步：歌词（滚动/逐字）、锁屏、bit-perfect 按源采样率直出\n7. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
+  "versionCode": 44,
+  "versionName": "0.40",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.40/ayu-toolbox-0.40.apk",
+  "apkSize": 71100551,
+  "sha256": "51f4f0d631833ff094ed70a9d4031ceae15d2a5a52726fee47c614f94f760ad9",
+  "changelog": "1. 新增歌词：点击封面切换歌词面板，滚动高亮当前行（香槟金 + 加粗），点击歌词行跳转播放\n2. 歌词来源：自动读取歌曲同名 .lrc（UTF-8/GBK 自动识别），也可长按封面手动选择 .lrc 文件\n3. 新增 MediaSession 与媒体通知：锁屏/通知栏显示封面、歌名、歌手与上一首/播放暂停/下一首按钮\n4. 通知栏图标改为标准上一首/播放/暂停/下一首矢量图标\n5. 下一步：bit-perfect 按源采样率直出（A7）、DSD（A4）、USB 独占（A1/A2）\n6. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
 }
