@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "0.42",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.42/ayu-toolbox-0.42.apk",
-  "apkSize": 71100623,
-  "sha256": "c3b435b50763bae76101b74f20195e267611a1313a76de9596bb51bd0055be03",
-  "changelog": "1. 新增「更多」菜单：睡眠定时 / 播放速度 / 淡入淡出 / 无缝播放说明\n2. 睡眠定时：10/20/30/60 分钟可选，标题行实时显示倒计时（实测显示「定时 9:52 · 全部 · 468 首」），到时自动暂停\n3. 播放速度：0.75x / 1.0x / 1.25x / 1.5x / 2.0x（实测 2.0x 下 4 秒推进 8 秒音频）\n4. 淡入淡出：播放渐入、暂停渐出，可开关并记忆\n5. 直出状态改为按「最近一次申请是否真的成功」显示，避免误显示已开启\n6. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
+  "versionCode": 47,
+  "versionName": "0.43",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.43/ayu-toolbox-0.43.apk",
+  "apkSize": 71102643,
+  "sha256": "e5b6d656746d64dd961d92491b8d51b51feb89fbf7f046729c06aeab5f5e2cdc",
+  "changelog": "1. 新增「USB 独占状态」页（播放设置 → USB 独占状态）\n2. 设备识别：名称、VID/PID、接口数、USB 权限状态\n3. UAC 描述符解析：支持 UAC 1.0 与 2.0，读出声道数、位深（16/24/32bit）\n4. 独占申请：逐个接管音频接口并逐条显示结果（实测 ddHiFi USB Audio 5/5 接口全部接管成功）\n5. 真机实测：ddHiFi USB Audio（VID 0E55 / PID 1110）识别为 UAC 2.0，2 声道，16/24/32bit 三种格式\n6. 采样率需运行时查询时钟源，留到 A1（UAC 用户态驱动）阶段\n7. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
 }
