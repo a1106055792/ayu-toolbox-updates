@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "0.38",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.38/ayu-toolbox-0.38.apk",
-  "apkSize": 71095639,
-  "sha256": "2180c9e8bffec2d5141d27d97441c1a27f8c3a1b17494e37035b129bccb9a117",
-  "changelog": "1. 后台播放：新增播放前台服务，退出到桌面/锁屏后继续播放（实测后台仍在播）\n2. 通知栏控制：上一首 / 播放暂停 / 下一首 / 停止（需系统允许本应用通知）\n3. 曲库过滤：全部 / 收藏 / 最近 三个筛选，长按歌曲可加入或取消收藏\n4. 文件夹浏览：按目录分组选择，实测可列出 Music(437)、生命的力量(12) 等目录\n5. 播放状态移入播放引擎单例，界面与通知栏共享同一份状态\n6. 下一步：音效（EQ/低音/增益）、歌词、bit-perfect 按源采样率直出\n7. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
+  "versionCode": 43,
+  "versionName": "0.39",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.39/ayu-toolbox-0.39.apk",
+  "apkSize": 71097715,
+  "sha256": "552d413deef064ed056d236df6d09b32aeb6ed96e6eded39a37b42c337df1fe5",
+  "changelog": "1. 新增「音效」页（播放页控制行「音效」进入）\n2. 均衡器：10 个预设（关闭/原声/流行/摇滚/古典/爵士/舞曲/重金属/民谣/嘻哈）+ 5 段频段手动调节\n3. 低音增强、环绕声、增益（限幅保护）三个强度滑块\n4. 音效绑定当前播放会话，实时生效；设置持久保存\n5. 独占（bit-perfect）与音效互斥：独占时音效自动关闭并提示\n6. 下一步：歌词（滚动/逐字）、锁屏、bit-perfect 按源采样率直出\n7. 本版 APK 约 67.8MB，建议在 WiFi 下更新"
 }
