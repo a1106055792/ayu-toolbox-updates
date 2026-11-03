@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "0.49",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.49/ayu-toolbox-0.49.apk",
-  "apkSize": 71601072,
-  "sha256": "cdafa90dc55c820123de602fd952b13dfd7920595395f7f79d58262df9be8223",
-  "changelog": "0.48 + 0.49 累积更新：\n1. 新增「书库」：PDF / EPUB / TXT / MD / HTML / DOCX / CBZ 直接阅读，MOBI / AZW3 / FB2 / RTF / ODT / DOC / CBR / CAJ / KDH 自动转换；目录、进度记忆、PDF 页码跳转\n2. 书库升级：列表 / 网格切换、全部 / 最近 / 电子书 / PDF / 文档分组、5 套阅读主题（纸张 / 羊皮纸 / 护眼绿 / 深灰 / 夜间）、字号 / 行距 / 边距 / 字体设置\n3. 加密音乐：入口移到播放器标题行「加密 N」，点开才是文件夹总览；密钥自动读取本机酷狗 / QQ 数据库（Shizuku 授权后免手动导入），静态格式继续内置\n4. 播放器主页改为导入式文件夹：只显示你选择的音乐目录，未导入时显示导入按钮\n5. 图片后期全量重构：裁剪 / 光色 / 颜色 / 效果 / 细节 / 蒙版 / 预设；支持曲线、HSL 八色、颜色分级、黑白混合、四类蒙版、预设、版本、按住对比、导出 JPG / PNG / WEBP\n6. 修复收藏闪退与卡顿、文件夹返回位置、PDF 渲染白屏（ARGB_8888）\n7. APK 约 68.3MB，建议在 WiFi 下更新"
+  "versionCode": 54,
+  "versionName": "0.50",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.50/ayu-toolbox-0.50.apk",
+  "apkSize": 71603601,
+  "sha256": "b4828b9649396944a5884cd20927f4e14f5dc6ad558997c6d38366d36ae601e7",
+  "changelog": "0.50 更新：\n1. 图片后期改高级深色灰主题（Lightroom 风），新增晕影中点 / 羽化 / 圆度 / 高光 / 样式，降噪拆六项\n2. 酷狗 Viper / 概念版 .kge 免密钥直解（v3 静态密钥），Shizuku 扫描新增酷狗 Viper 私有目录\n3. 播放器扫描排除加密音乐文件，不再生成空音乐文件夹\n4. 书库 PDF 阅读器新增页码进度条（拖动跳页）\nAPK 约 68.3MB，建议 WiFi 更新。"
 }
