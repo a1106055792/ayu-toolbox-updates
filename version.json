@@ -1,8 +1,8 @@
 {
-  "versionCode": 51,
-  "versionName": "0.47",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.47/ayu-toolbox-0.47.apk",
-  "apkSize": 71495000,
-  "sha256": "30539365068d7d0d6a471137ba5674b0a053899d01666ff7411c2bc19f04b6a5",
-  "changelog": "1. 导航改 3 tab（功能 / 播放器 / 我），图片后期并入图片工具子页\n2. 加密音乐中心：扫描共享存储全部目录，支持 .kgg.flac / .kgma.flac 双扩展名；加密区置底，可一键批量转 FLAC（成功删原文件、失败保留）\n3. Shizuku 集成：可扫描酷狗 / QQ 音乐 / 网易云 / 酷我 Android/data 私有目录（普通权限无法读取），私有文件转 FLAC 输出到「音乐」目录并删除原文件；入口在播放器「更多 → Shizuku 授权」\n4. 播放器删除：长按曲目删除文件、长按文件夹删除整个文件夹，本地文件与媒体库记录一并删除，二次确认\n5. A1 USB 独占、曲库文件夹优先、列表与转场流畅度改进（0.46 累积）\n6. 提示：扫描 App 私有目录需安装并启动 Shizuku；共享存储（Download / Music 等）无需 Shizuku\n7. APK 约 68.2MB，建议在 WiFi 下更新"
+  "versionCode": 53,
+  "versionName": "0.49",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.49/ayu-toolbox-0.49.apk",
+  "apkSize": 71601072,
+  "sha256": "cdafa90dc55c820123de602fd952b13dfd7920595395f7f79d58262df9be8223",
+  "changelog": "0.48 + 0.49 累积更新：\n1. 新增「书库」：PDF / EPUB / TXT / MD / HTML / DOCX / CBZ 直接阅读，MOBI / AZW3 / FB2 / RTF / ODT / DOC / CBR / CAJ / KDH 自动转换；目录、进度记忆、PDF 页码跳转\n2. 书库升级：列表 / 网格切换、全部 / 最近 / 电子书 / PDF / 文档分组、5 套阅读主题（纸张 / 羊皮纸 / 护眼绿 / 深灰 / 夜间）、字号 / 行距 / 边距 / 字体设置\n3. 加密音乐：入口移到播放器标题行「加密 N」，点开才是文件夹总览；密钥自动读取本机酷狗 / QQ 数据库（Shizuku 授权后免手动导入），静态格式继续内置\n4. 播放器主页改为导入式文件夹：只显示你选择的音乐目录，未导入时显示导入按钮\n5. 图片后期全量重构：裁剪 / 光色 / 颜色 / 效果 / 细节 / 蒙版 / 预设；支持曲线、HSL 八色、颜色分级、黑白混合、四类蒙版、预设、版本、按住对比、导出 JPG / PNG / WEBP\n6. 修复收藏闪退与卡顿、文件夹返回位置、PDF 渲染白屏（ARGB_8888）\n7. APK 约 68.3MB，建议在 WiFi 下更新"
 }
