@@ -1,1 +1,8 @@
-{"versionCode": 60, "versionName": "0.56", "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.56/ayu-toolbox-0.56.apk", "apkSize": 71654989, "sha256": "6d9f0e8f2b14d8a6a1f5091adf11fb1fb8bce5888e9cc37a9a7151a81f77a203", "changelog": "0.56 更新：\n1. 底部导航长按拖拽排序（350ms 震动进入，tab 跟手、其他 tab 让位，松手保存）\n2. 酷狗 root 直读密钥（已 root 设备可在密钥库选择）\n3. 「全部文件」筛选计数改为过滤后数量\n4. 加密转码后返回总览不再显示旧计数\n5. Office→PDF（docx/xlsx/pptx）实测通过\n6. APK 约 68.3MB，建议 WiFi 下更新\n"}
+{
+  "versionCode": 61,
+  "versionName": "0.57",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.57/ayu-toolbox-0.57.apk",
+  "apkSize": 71837117,
+  "sha256": "cd458eaed6ee35b3f3b226dda0c3d5a24455db1f293752db863d8213ea411515",
+  "changelog": "0.57 更新：\n1. 状态持久化重构：公共 Documents + 私有目录 + 旧路径 + 镜像四份，重启更稳\n2. 书库导入根丢失不再清空，显示缓存并提示重导；设置新增存储诊断\n3. 播放器导入支持 SD 卡/刷新/手动路径，未入库音频也能扫到\n4. 本地歌词支持同名/模糊 LRC、Lyrics 目录和内嵌标签\n5. EPUB/TXT 修复段落被拆散、汉字间多余空格\n6. APK 约 68.5MB，建议 WiFi 下更新"
+}
