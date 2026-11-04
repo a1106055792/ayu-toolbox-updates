@@ -1,8 +1,8 @@
 {
-  "versionCode": 57,
-  "versionName": "0.53",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.53/ayu-toolbox-0.53.apk",
-  "apkSize": 71653377,
-  "sha256": "808edf0104bad2da78ce971e639df2430bd6cc73adbf7e12b51026fbeafdd8c2",
-  "changelog": "0.53 更新：\n1. 图片后期全面重做：所有滑块拖动实时出帧，不再松手才变\n2. 基础色调按 Lightroom 重写：曝光走线性光，白/黑色阶端点重映射，高光/阴影局部亮度掩膜\n3. 曲线/白平衡/饱和度/HSL/颜色分级/黑白/去朦胧/暗角/颗粒全部实时\n4. 清晰度/纹理/锐化/降噪改为 GPU 多 pass，同样实时\n5. 蒙版局部调整实时生效（预览最多 4 个蒙版）\n6. 导出结果与预览一致\n7. APK 约 68.3MB，建议 WiFi 下更新\n"
+  "versionCode": 59,
+  "versionName": "0.55",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.55/ayu-toolbox-0.55.apk",
+  "apkSize": 71653657,
+  "sha256": "bd42bd5e382bb6e1d74a9582d8e51d5ffcb468ccbf51320ec97d8dc172c0d45f",
+  "changelog": "0.55 更新：\n1. 导入持久化：导入的文件夹与文件列表在卸载重装后不再丢失\n2. 系统分享导入：任意文件可从其他应用直接分享进阿尤工具箱，自动分流到播放器/书库/图片/密钥库\n3. 导入页新增「全部文件」视图：按时间排序、显示路径与大小、可按格式筛选；文件夹深色底与分割线区分\n4. EPUB 翻页不再误选文字；长按仍可复制\n5. 阅读字号新增「巨大」档\n6. EPUB 没有目录的书自动生成完整目录，单行、点线、序号右对齐\n7. APK 约 68.3MB，建议 WiFi 下更新\n"
 }
