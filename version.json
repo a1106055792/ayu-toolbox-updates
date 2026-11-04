@@ -1,8 +1,8 @@
 {
-  "versionCode": 61,
-  "versionName": "0.57",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.57/ayu-toolbox-0.57.apk",
+  "versionCode": 62,
+  "versionName": "0.58",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.58/ayu-toolbox-0.58.apk",
   "apkSize": 71837117,
-  "sha256": "cd458eaed6ee35b3f3b226dda0c3d5a24455db1f293752db863d8213ea411515",
-  "changelog": "0.57 更新：\n1. 状态持久化重构：公共 Documents + 私有目录 + 旧路径 + 镜像四份，重启更稳\n2. 书库导入根丢失不再清空，显示缓存并提示重导；设置新增存储诊断\n3. 播放器导入支持 SD 卡/刷新/手动路径，未入库音频也能扫到\n4. 本地歌词支持同名/模糊 LRC、Lyrics 目录和内嵌标签\n5. EPUB/TXT 修复段落被拆散、汉字间多余空格\n6. APK 约 68.5MB，建议 WiFi 下更新"
+  "sha256": "2ad9da71361a14cd6fabd8acacf9c9ca87f797b9a8a4c1116b7198e3dea0692f",
+  "changelog": "0.58 更新：\n1. 阅读器默认沉浸式全屏，点中间呼出顶/底栏\n2. 触摸区改左 25%/右 25%/中间 50%，长按选字后点中间清选区并全屏\n3. 字号扩到 11 档（16–144），带字号预览\n4. 新增仿真书页翻页（斜向折痕/镜像纸背/阴影），可切换仿真/滑动/淡入/无\n5. APK 约 68.5MB，建议 WiFi 下更新"
 }
