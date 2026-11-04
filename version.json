@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "0.50",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.50/ayu-toolbox-0.50.apk",
-  "apkSize": 71603601,
-  "sha256": "b4828b9649396944a5884cd20927f4e14f5dc6ad558997c6d38366d36ae601e7",
-  "changelog": "0.50 更新：\n1. 图片后期改高级深色灰主题（Lightroom 风），新增晕影中点 / 羽化 / 圆度 / 高光 / 样式，降噪拆六项\n2. 酷狗 Viper / 概念版 .kge 免密钥直解（v3 静态密钥），Shizuku 扫描新增酷狗 Viper 私有目录\n3. 播放器扫描排除加密音乐文件，不再生成空音乐文件夹\n4. 书库 PDF 阅读器新增页码进度条（拖动跳页）\nAPK 约 68.3MB，建议 WiFi 更新。"
+  "versionCode": 55,
+  "versionName": "0.51",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.51/ayu-toolbox-0.51.apk",
+  "apkSize": 71620037,
+  "sha256": "43c4cfa72994f39a315de0ae810587254663ec7ed1bb82a816e2e399b5ff0baa",
+  "changelog": "0.51 更新：\n1. 书库导入改造：导入文件夹时只显示含可读文档的文件夹，主页默认不显示任何书，需自己导入；支持整夹导入或单本导入\n2. 播放器导入改造：只显示含音乐文件的文件夹，不再从全量本地目录里挑\n3. 修复阅读器导入字体不生效（TXT / MD / HTML 的字体现在真正生效）\n4. 修复听书：补系统语音引擎可见性声明与初始化容错，长章节分段朗读、自动续章、可随时停止\n5. 平移翻页跨章时先等新章节加载完再滑动，不再闪空白\n6. APK 约 68.3MB，建议在 WiFi 下更新"
 }
