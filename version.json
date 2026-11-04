@@ -1,8 +1,1 @@
-{
-  "versionCode": 59,
-  "versionName": "0.55",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.55/ayu-toolbox-0.55.apk",
-  "apkSize": 71653657,
-  "sha256": "bd42bd5e382bb6e1d74a9582d8e51d5ffcb468ccbf51320ec97d8dc172c0d45f",
-  "changelog": "0.55 更新：\n1. 导入持久化：导入的文件夹与文件列表在卸载重装后不再丢失\n2. 系统分享导入：任意文件可从其他应用直接分享进阿尤工具箱，自动分流到播放器/书库/图片/密钥库\n3. 导入页新增「全部文件」视图：按时间排序、显示路径与大小、可按格式筛选；文件夹深色底与分割线区分\n4. EPUB 翻页不再误选文字；长按仍可复制\n5. 阅读字号新增「巨大」档\n6. EPUB 没有目录的书自动生成完整目录，单行、点线、序号右对齐\n7. APK 约 68.3MB，建议 WiFi 下更新\n"
-}
+{"versionCode": 60, "versionName": "0.56", "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.56/ayu-toolbox-0.56.apk", "apkSize": 71654989, "sha256": "6d9f0e8f2b14d8a6a1f5091adf11fb1fb8bce5888e9cc37a9a7151a81f77a203", "changelog": "0.56 更新：\n1. 底部导航长按拖拽排序（350ms 震动进入，tab 跟手、其他 tab 让位，松手保存）\n2. 酷狗 root 直读密钥（已 root 设备可在密钥库选择）\n3. 「全部文件」筛选计数改为过滤后数量\n4. 加密转码后返回总览不再显示旧计数\n5. Office→PDF（docx/xlsx/pptx）实测通过\n6. APK 约 68.3MB，建议 WiFi 下更新\n"}
