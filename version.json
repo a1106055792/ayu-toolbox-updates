@@ -1,8 +1,8 @@
 {
-  "versionCode": 62,
-  "versionName": "0.58",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.58/ayu-toolbox-0.58.apk",
-  "apkSize": 71837117,
-  "sha256": "2ad9da71361a14cd6fabd8acacf9c9ca87f797b9a8a4c1116b7198e3dea0692f",
-  "changelog": "0.58 更新：\n1. 阅读器默认沉浸式全屏，点中间呼出顶/底栏\n2. 触摸区改左 25%/右 25%/中间 50%，长按选字后点中间清选区并全屏\n3. 字号扩到 11 档（16–144），带字号预览\n4. 新增仿真书页翻页（斜向折痕/镜像纸背/阴影），可切换仿真/滑动/淡入/无\n5. APK 约 68.5MB，建议 WiFi 下更新"
+  "versionCode": 63,
+  "versionName": "0.59",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.59/ayu-toolbox-0.59.apk",
+  "apkSize": 74411139,
+  "sha256": "3f34230b5c80808f8db4afd8aefbd9579c7b194616ffcd37324e63b2209a8dcd",
+  "changelog": "0.59 更新：\n1. 简繁四档：原文/简体/繁体/智能统一\n2. 点段落切换原文与译文\n3. 新增语音引擎选择\n4. 在线字体中心：5 款字体，下载即用，长按删除\n5. APK 约 71MB，建议 WiFi 下更新"
 }
