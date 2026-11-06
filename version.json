@@ -1,8 +1,8 @@
 {
-  "versionCode": 63,
-  "versionName": "0.59",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.59/ayu-toolbox-0.59.apk",
-  "apkSize": 74411139,
-  "sha256": "3f34230b5c80808f8db4afd8aefbd9579c7b194616ffcd37324e63b2209a8dcd",
-  "changelog": "0.59 更新：\n1. 简繁四档：原文/简体/繁体/智能统一\n2. 点段落切换原文与译文\n3. 新增语音引擎选择\n4. 在线字体中心：5 款字体，下载即用，长按删除\n5. APK 约 71MB，建议 WiFi 下更新"
+  "versionCode": 64,
+  "versionName": "0.60",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.60/ayu-toolbox-0.60.apk",
+  "apkSize": 74674939,
+  "sha256": "dcd7160355386d25931d08b7619ece6db9a148db830ccea631719d30de88f242",
+  "changelog": "0.60 更新：\n1. 阅读设置改为半透明折叠面板：排版/字体/简繁/其他/显示，字号 A-/滑杆/A+\n2. 字体区真实样张 + 系统/已导入/在线字体；新增全局字体\n3. 点按分区：中心呼栏、右下下一页、左上上一页\n4. 自定义页边距支持四边拖动，边框即文字边界\n5. 播放器批量管理加全选/取消全选\n6. USB 后台保活优化：独占不抢焦点、起播拉前台服务\n7. 移除朗读/听书功能\n8. APK 74.7MB"
 }
