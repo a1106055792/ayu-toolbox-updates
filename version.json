@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
-  "versionName": "0.60",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.60/ayu-toolbox-0.60.apk",
-  "apkSize": 74674939,
-  "sha256": "dcd7160355386d25931d08b7619ece6db9a148db830ccea631719d30de88f242",
-  "changelog": "0.60 更新：\n1. 阅读设置改为半透明折叠面板：排版/字体/简繁/其他/显示，字号 A-/滑杆/A+\n2. 字体区真实样张 + 系统/已导入/在线字体；新增全局字体\n3. 点按分区：中心呼栏、右下下一页、左上上一页\n4. 自定义页边距支持四边拖动，边框即文字边界\n5. 播放器批量管理加全选/取消全选\n6. USB 后台保活优化：独占不抢焦点、起播拉前台服务\n7. 移除朗读/听书功能\n8. APK 74.7MB"
+  "versionCode": 65,
+  "versionName": "0.61",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.61/ayu-toolbox-0.61.apk",
+  "apkSize": 74699787,
+  "sha256": "5ac0fa2875d1c3f4a2e85c1abffb2ff9ed4da9a5a2b16d2f050db4fc53dedff3",
+  "changelog": "0.61 更新：\n1. USB 独占音量键接管：音量键直接调 DAC 36 档，暂停时也生效\n2. EPUB 页眉页码/脚注自动识别分离，正文不再混入\n3. PDF 转 EPUB：印刷目录、图片题注、跨页续段、页界横线、图片双击放大\n4. 酷狗 KGG 密钥自动读取（需 root / Shizuku）\n5. 阅读器点击分区改左右分栏，翻页更顺、夜间不再露白边\n6. UI 对齐：列表滚动更顺、深色选择器修亮线、图片编辑器导出进度条\n7. APK 74.7MB"
 }
