@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "0.61",
-  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.61/ayu-toolbox-0.61.apk",
-  "apkSize": 74699787,
-  "sha256": "5ac0fa2875d1c3f4a2e85c1abffb2ff9ed4da9a5a2b16d2f050db4fc53dedff3",
-  "changelog": "0.61 更新：\n1. USB 独占音量键接管：音量键直接调 DAC 36 档，暂停时也生效\n2. EPUB 页眉页码/脚注自动识别分离，正文不再混入\n3. PDF 转 EPUB：印刷目录、图片题注、跨页续段、页界横线、图片双击放大\n4. 酷狗 KGG 密钥自动读取（需 root / Shizuku）\n5. 阅读器点击分区改左右分栏，翻页更顺、夜间不再露白边\n6. UI 对齐：列表滚动更顺、深色选择器修亮线、图片编辑器导出进度条\n7. APK 74.7MB"
+  "versionCode": 220,
+  "versionName": "0.216",
+  "apkUrl": "https://gh-proxy.com/https://github.com/a1106055792/ayu-toolbox-updates/releases/download/v0.216/ayu-toolbox-0.216.apk",
+  "apkSize": 136291149,
+  "sha256": "cffa57ab23a9ca348725f1ad13253f66154b7b52595352d809668584771ce55e",
+  "changelog": "0.216 更新：\n1. DOCX→EPUB 自研转换：Word 批注转章末脚注（[N] 跳转 + ↩ 返回），字体/颜色/字号/高亮/上下标/下划线样式全部保留\n2. 内嵌 Fandol 开源字体（仿宋/楷体/宋体），按 Word 观感做 size-adjust\n3. 目录深度可调 1-6 级：默认 3 级，法律文件可切到 5 级看「第X条　【主旨】」，每本书单独记住\n4. 简繁转换不再丢 EPUB 样式（字体/颜色/字号全部保留）\n5. 加密音乐转 FLAC「新建文件夹」修复：默认新建、输入名字即切换，不再误写进酷狗\n6. 书库导入根相对路径修复：重启后书不再丢失\n7. 全屏播放页默认歌词，删掉顶部「正在播放」文案\n8. 修复 WebView 调试开关导致转换进程崩溃（卡在「正在准备」）\n9. 修复转换进度条不更新\n10. APK 136.3MB"
 }
